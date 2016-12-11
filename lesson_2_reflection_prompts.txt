@@ -6,7 +6,7 @@ because the .git file with record all the meta data associated with every editin
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-staging area offers tracking to all added files. Commits only apply to the files inside the staging area.
+staging area offers tracking to all added files. Commits only apply to the files inside the staging area!
 
 How can you use the staging area to make sure you have one commit per logical
 change?
